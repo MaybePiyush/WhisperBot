@@ -43,7 +43,7 @@ Just type the message in below format in any chat.
     """
 
     # About Message
-    ABOUT = "
+    ABOUT = """
 **About This Bot** 
 
 Bot created by @BotzArena
@@ -55,4 +55,4 @@ Framework : [Pyrogram](docs.pyrogram.org)
 Language : [Python](www.python.org)
 
 Developer : @SexyPiyush
-"
+"""
