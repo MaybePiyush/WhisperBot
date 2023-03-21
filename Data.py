@@ -14,7 +14,7 @@ Only that friend and you will be able to read the message even though others are
 
 To see how to use me press 'How to Use' below.
 
-By @StarkBots
+By @BotzArena
     """
 
     # Home Button
@@ -43,7 +43,7 @@ Just type the message in below format in any chat.
     """
 
     # About Message
-    ABOUT = """
+    ABOUT = "
 **About This Bot** 
 
 Bot created by @BotzArena
@@ -55,3 +55,4 @@ Framework : [Pyrogram](docs.pyrogram.org)
 Language : [Python](www.python.org)
 
 Developer : @SexyPiyush
+"
